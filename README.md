@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with these nuts
 - 💬 Ask me about these nuts
 - 📫 How to reach me: telepathically transfer your thoughts into my nuts
-- 😄 Pronouns: he/him/nuts
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i have nuts
-- 
