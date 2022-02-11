@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on these nuts
 - 🌱 I’m currently learning React, nodeJS
 - 👯 I’m looking to collaborate on these nuts
-- 🤔 I’m looking for help with these nuts
+- 🤔 I’m looking for help on fat nuts
 - 💬 Ask me about these nuts
 - 📫 How to reach me: telepathically transfer your thoughts into my nuts
 - 😄 Pronouns: he/him
