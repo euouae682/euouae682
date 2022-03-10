@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on these nuts
-- 🌱 I’m currently learning React, nodeJS
+- 🌱 I’m currently learning React, nodeJS, Flask
 - 👯 I’m looking to collaborate on these nuts
 - 🤔 I’m looking for help on fat nuts
 - 💬 Ask me about these nuts
