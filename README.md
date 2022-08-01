@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on nothing (i am unproductive)
-- 🌱 I’m currently learning React, nodeJS, Flask
-- 👯 I’m looking to collaborate on the creation of a Dyson sphere
-- 🤔 I’m looking for help on learning how to file my taxes
-- 💬 Ask me about the process in which pingos (ice-cored hills) form in subarctic and arctic environments
-- 📫 How to reach me: telepathically transfer your thoughts into my nuts
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i have nuts
+- Current Skills: Python, Java, HTML+CSS, JavaScript
+- Currently Learning: React, Vue, Python Flask
