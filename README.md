@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - Current Skills: Python, Java, HTML+CSS, JavaScript
 - Currently Learning: React, Vue, Python Flask
+- Want to Learn: Rust, TensorFlow
