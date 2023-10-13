@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Current Skills: Python, Java, HTML+CSS, JavaScript
-- Currently Learning: React, Vue, Python Flask
+- Current Skills: Python, Java, HTML+CSS, JavaScript, Tailwind CSS, React.js, Vue.js, Python Flask
+- Currently Learning: Next.js, TypeScript
 - Want to Learn: Rust, TensorFlow
