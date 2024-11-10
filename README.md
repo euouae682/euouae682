@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Current Skills: Python, Java, HTML+CSS, JavaScript, Tailwind CSS, React, Vue.js, Python Flask, Next.js, TypeScript, C
-- Currently Learning: Svelte/SvelteKit, Express
-- Want to Learn: Rust, TensorFlow
+- Current Skills: Python, Java, HTML+CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, Svelte, SvelteKit, Vue, Flask, Node.js, C, C#, OCaml
